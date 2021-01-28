@@ -1,0 +1,36 @@
+# VS Code Specific
+.vscode/*
+.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+__pycache__/
+.ipynb_checkpoints/*
+
+# Local History for Visual Studio Code
+.history/
+
+# Other
+.DS_Store
+
+# Project specific
+latest_submission.csv
+*.h5
+*.hdf5
+*.csv
+launcher.sh
+../data/pre_processing_full_dataset/*
+../data/pre_processing_small_dataset/*
+pre_processing_small_dataset/
+pre_processing_full_dataset/
+src/models/baseline_bert.py
+src/models/baseline_word2vec.py
+../data/ensemble/*.txt
+/data/ensemble/submission/*
+../data/ensemble/*

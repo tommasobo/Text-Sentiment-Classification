@@ -1,0 +1,10 @@
+h5py==2.10.0
+keras-multi-head==0.27.0 
+tensorflow-hub==0.7.0
+gensim==3.8.3
+tensorflow-gpu==1.13.1
+Keras==2.2.5
+sklearn==0.0
+pandas==1.0.5
+nltk==3.5
+matplotlib==3.2.2

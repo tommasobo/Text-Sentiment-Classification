@@ -1,0 +1,6 @@
+h5py==2.9.0
+keras-multi-head==0.27.0 
+tensorflow-hub==0.7.0
+keras_bert==0.81.0
+keras-transformer==0.31.0
+gensim==3.8.3
